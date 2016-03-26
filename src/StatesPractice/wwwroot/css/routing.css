@@ -63,6 +63,7 @@
 }
 
 body {
+  font-family: "andadaregular", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   background-color: #f5f5dC;
 }
 
@@ -81,7 +82,7 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: "alegreyaregular", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: "andadaregular", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   margin-left: 25px;
 }
 
